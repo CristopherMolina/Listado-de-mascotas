@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend-CRUDMascotas", "Backend-CRUDMascotas\Backend-CRUDMascotas.csproj", "{A59BF11A-9045-4B8B-B6DF-39FD9300CC40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59BF11A-9045-4B8B-B6DF-39FD9300CC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59BF11A-9045-4B8B-B6DF-39FD9300CC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59BF11A-9045-4B8B-B6DF-39FD9300CC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59BF11A-9045-4B8B-B6DF-39FD9300CC40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FFFFF4F-6911-48F0-89CA-031B174EED2C}
+	EndGlobalSection
+EndGlobal
